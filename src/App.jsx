@@ -6,6 +6,7 @@ import FeatureSection from './components/FeatureSection'
 import WorkflowSection from './components/WorkflowSection'
 import PricingSection from './components/PricingSection'
 import TestimonialsSection from './components/TestimonialsSection'
+import { Footer } from './components/Footer'
 
 function App() {
 	return (
@@ -17,6 +18,7 @@ function App() {
 				<WorkflowSection />
 				<PricingSection />
 				<TestimonialsSection />
+				<Footer />
 			</div>
 		</div>
 	)
