@@ -2,7 +2,8 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import FeatureSection from './components/FeatureSection'
-import { WorkflowSection } from './components/WorkflowSection'
+import WorkflowSection from './components/WorkflowSection'
+import PricingSection from './components/PricingSection'
 
 function App() {
 	return (
@@ -12,6 +13,7 @@ function App() {
 				<HeroSection />
 				<FeatureSection />
 				<WorkflowSection />
+				<PricingSection />
 			</div>
 		</div>
 	)
