@@ -24,7 +24,7 @@ export const sloganPart1 = 'Echo Your'
 export const sloganPart2 = 'Reality'
 
 export const homeMainDescription =
-	'EchoRealm transforms your imagination into immersive virtual experiences. With powerful yet intuitive tools, seamless collaboration, and stunning realism, creating interactive worlds has never been easier. Whether for entertainment, education, or business, EchoRealm elevates your vision and connects you to limitless possibilities.'
+	'EchoRealm turns your ideas into immersive VR worlds—fast to build, easy to collaborate on, and realistic enough to feel real. Perfect for games, training, or business experiences.'
 
 export const testimonials = [
 	{

@@ -29,4 +29,4 @@ Developed by **Wail Solaiman**.
 
 ## Link
 
-[echorealm-tau.vercel.app/](https://echorealm-tau.vercel.app/)
+[echorealm.wailsolaiman.com](https://echorealm.wailsolaiman.com/)
